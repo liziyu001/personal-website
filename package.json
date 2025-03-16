@@ -17,7 +17,7 @@
     "webpack": "^5.97.1",
     "webpack-cli": "^6.0.1"
   },
-  "homepage": "https://liziyu001.github.io/personal-website",
+  "homepage": "/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
