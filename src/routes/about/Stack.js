@@ -1,16 +1,16 @@
 import { React } from 'react'
 const stack = [
-  "HTML5",
-  "CSS3",
-  "Tailwind",
-  "SCSS/SASS",
-  "JavaScript ES6+",
+  "C",
+  "C++",
+  "x86 Assembly",
+  "Python",
+  "Java",
+  "JavaScript",
   "React.js",
-  "RESTful API",
   "GitHub",
   "Git",
-  "Figma",
-  "Visual Studio Code"
+  "SQL",
+  "Linux"
 ];
 
 

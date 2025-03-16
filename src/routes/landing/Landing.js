@@ -9,7 +9,7 @@ import "./Landing.sass";
 
 const Mainpage = () => {
   useEffect(() => {
-    document.title = "Sophia Martinez | Personal Portfolio";
+    document.title = "Ziyu Li | Personal Portfolio";
     window.scrollTo(0, 0);
   })
   return (

@@ -7,10 +7,10 @@ const Footer = () => {
   return (
     <article className="footer">
       <a
-        href="https://github.com/catherineisonline/"
+        href="https://github.com/liziyu001"
         target="_blank"
         rel="noopener noreferrer">
-        Designed & Built by Sophia &copy;2023 - {currentYear}
+        Ziyu Li &copy;2025 - {currentYear}
       </a>
     </article>
   );
