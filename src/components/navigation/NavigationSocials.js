@@ -7,25 +7,18 @@ const NavigationSocials = () => {
   return (
     <section className="navigation__socials">
       <a
-        href="https://www.linkedin.com/in/catherinemitagvaria/"
+        href="https://www.linkedin.com/in/ziyu-li-62078122b"
         target="_blank"
         rel="noopener noreferrer"
       >
         <img src={Linkedin} alt="LinkedIn profile" />
       </a>
       <a
-        href="https://github.com/catherineisonline"
+        href="https://github.com/liziyu001"
         target="_blank"
         rel="noopener noreferrer"
       >
         <img src={Github} alt="GitHub" />
-      </a>
-      <a
-        href="https://codepen.io/catherineisonline"
-        target="_blank"
-        rel="noopener noreferrer"
-      >
-        <img src={Codepen} alt="Codepen" />
       </a>
     </section>
   );
