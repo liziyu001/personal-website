@@ -4,7 +4,7 @@ const experienceData = [
     jobtitle: "Research Intern",
     companyname: "Reliable and Secure Systems Lab at Purdue",
     worktype: "Internship",
-    duration: "May 2022 - Aug 2022",
+    duration: "May 2024 - Oct 2024",
     location: "West Lafayette, Indiana",
     responsibility: [
       `Developed an optimized snapshot/restore mechanism in C++ for llvm libfuzzer, utilizing Linux kernel's soft-dirty page tables to track memory changes efficiently, leading to a 40% increase in fuzzing throughput.`,

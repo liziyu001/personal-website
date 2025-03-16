@@ -9,7 +9,7 @@ const HeroPreview = () => {
         <em className="pink-text">Ziyu Li</em>
         <br></br>CS & DS Undergraduate at Purdue University
       </h1>
-      <p className="gray-text p-tag">Front End Development</p>
+      <p className="gray-text p-tag">Projects</p>
       <Link className="pink-text" to="/portfolio">
         Check my work
       </Link>

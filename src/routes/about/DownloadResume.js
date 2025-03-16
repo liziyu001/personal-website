@@ -5,7 +5,7 @@ import { React } from 'react';
 const DownloadResume = () => {
   return (
     <section>
-      <a className="download-btn" href={Resume} download="Ziyu Li">
+      <a className="download-btn" href={Resume} download="Ziyu_Li_Resume.pdf">
         <img
           src={DownloadIcon}
           alt="Resume download button"
