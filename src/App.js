@@ -7,10 +7,10 @@ import './core-ui/Hover.sass';
 
 const App = () => {
   return (
-    <Router>
+    <Router basename="/personal-website">
       <Navigation />
       <Routes>
-        <Route path="/personal-website" element={<Landing />} />
+        <Route path="/" element={<Landing />} />
         <Route path="/about" element={<About />} />
         <Route path="/portfolio" element={<Portfolio />} />
         <Route path="/contact" element={<Contact />} />
