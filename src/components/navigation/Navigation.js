@@ -23,7 +23,6 @@ const Navigation = () => {
     <article className="navigation">
       <NavigationHamburger ToggleMenu={ToggleMenu} ref={ref} />
       <section className={`navigation__menu${hiddenMenu ? `` : ` active_v`}`}>
-        <NavigationLogo closeMenu={closeMenu} />
         <NavigationLinks closeMenu={closeMenu} />
         <NavigationSocials />
       </section>
